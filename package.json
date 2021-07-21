@@ -1,0 +1,16 @@
+{
+  "name": "mlmovement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gphoto2": "^0.3.2",
+    "johnny-five": "^2.1.0",
+    "ml5": "^0.6.1"
+  }
+}
